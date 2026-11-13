@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.h5ad
+*.rds
+report/
+example_data/
+.DS_Store
